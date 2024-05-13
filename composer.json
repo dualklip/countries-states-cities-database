@@ -1,0 +1,19 @@
+{
+    "name": "dualklip/countries-states-cities-database",
+    "description": "Composer version of the repository made by @dr5hn",
+    "type": "library",
+    "license": "Open Database License",
+    "autoload": {
+        "psr-4": {
+            "Dualklip\\CountriesStatesCitiesDatabase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miguel Lopez",
+            "email": "dualklip@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

@@ -4,3 +4,5 @@ scripts/vendor/data/*
 issues/
 csc/
 base.php
+
+/vendor/
